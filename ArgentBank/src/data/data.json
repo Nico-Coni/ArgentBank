@@ -1,0 +1,22 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "title": "You are our #1 priority",
+            "description": "Need to talk to a representative? We are here to help 24/7.",
+            "image": "icon-chat.png"
+        },
+        {
+            "id": 2,
+            "title": "More savings means higher rates",
+            "description": "The more you save with us, the higher your interest rate will be!",
+            "image": "icon-money.png"
+        },
+        {
+            "id": 3,
+            "title": "Security you can trust",
+            "description": "We use top of the line encryption to make sure your data and money is always safe.",
+            "image": "icon-security.png"
+        }
+    ]
+}
